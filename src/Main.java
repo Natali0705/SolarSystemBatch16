@@ -6,6 +6,10 @@ public class Main {
         Omnax.Star="5";
         Omnax.Planets="8";
 
+        FeatureSun Xeon=new FeatureSun();
+        Xeon.Name="kkk";
+        Xeon.size="8";
+        Xeon.temp="989  C";
 
     }
 
