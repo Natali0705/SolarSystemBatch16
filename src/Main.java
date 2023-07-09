@@ -11,6 +11,11 @@ public class Main {
         Xeon.size="8";
         Xeon.temp="989  C";
 
+        Planet2 Feon=new Planet2();
+        Feon.Name="AAA";
+        Feon.temp="99";
+        Feon.size="85km";
+
     }
 
 }
